@@ -1,0 +1,6 @@
+{
+  "name": "programming-typescript",
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  }
+}
